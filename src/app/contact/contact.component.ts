@@ -50,4 +50,8 @@ export class ContactComponent implements OnInit {
     this.aliases.push(this.varfb.control(''));
   }
 
+  sendMail(){
+
+  }
+
 }
